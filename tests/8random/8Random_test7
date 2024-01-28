@@ -1,0 +1,16 @@
+Invalid consecutive zeros or ones in a row : 6
+Invalid consecutive zeros or ones in a column : 0
+Invalid consecutive zeros or ones in a column : 7
+Invalid consecutive zeros or ones in a column : 6
+Invalid consecutive zeros or ones in a column : 6
+Invalid consecutive zeros or ones in a column : 5
+Invalid consecutive zeros or ones in a column : 7
+Invalid consecutive zeros or ones in a column : 2
+_ 1 0 1 1 0 0 1
+0 0 1 0 1 1 0 1
+1 0 0 1 0 0 _ _
+1 1 0 1 0 _ 1 0
+0 0 1 0 1 0 1 1
+1 0 1 _ 0 1 0 0
+0 1 _ 0 1 0 0 1
+0 1 0 1 0 1 1 0

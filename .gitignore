@@ -1,0 +1,7 @@
+# Ignore object files and executable
+*.o
+takuzu
+./src/takuzu
+./src/*.o
+./scriptTests.sh
+scriptTests.sh
